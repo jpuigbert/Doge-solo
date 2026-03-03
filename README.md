@@ -9,8 +9,6 @@ Està dissenyat perquè qualsevol persona pugui minar DOGE directament des del s
 
 👉 **Si trobes un bloc, la recompensa és tota per a tu!** (només es descompta un 1% per al manteniment del projecte).
 
-![Captura de pantalla](https://via.placeholder.com/800x450.png?text=DogeSolo+Interface)  
-*(Posa aquí una captura real de l'aplicació)*
 
 ---
 
