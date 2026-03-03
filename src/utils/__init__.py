@@ -1,0 +1,1 @@
+# Aquest fitxer fa que el directori sigui un paquet Python

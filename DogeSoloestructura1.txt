@@ -1,0 +1,31 @@
+DogeSolo/
+├── build.py                          ← NOU: compila per totes les plataformes
+├── setup.py                          ← NOU
+├── requirements.txt                  ← ACTUALITZAT
+├── src/
+│   ├── main.py                       ← ACTUALITZAT
+│   ├── core/
+│   │   ├── node_manager.py           ← (del missatge anterior)
+│   │   ├── miner_manager.py          ← (del missatge anterior)
+│   │   └── wallet_manager.py         ← NOU: enviar DOGE
+│   ├── gui/
+│   │   ├── main_window.py            ← ACTUALITZAT: +pestanya wallet
+│   │   ├── miner_tab.py              ← (del missatge anterior)
+│   │   ├── node_tab.py               ← ACTUALITZAT
+│   │   ├── wallet_tab.py             ← NOU: enviar/rebre DOGE
+│   │   ├── settings_tab.py           ← (del missatge anterior)
+│   │   └── styles/
+│   │       ├── dark_theme.qss        ← (del missatge anterior)
+│   │       └── light_theme.qss       ← (del missatge anterior)
+│   └── utils/
+│       ├── config.py                 ← (del missatge anterior)
+│       ├── logger.py                 ← (del missatge anterior)
+│       └── downloader.py             ← (del missatge anterior)
+└── installers/
+    ├── windows/
+    │   └── installer_script.iss      ← NOU: Inno Setup
+    ├── macos/
+    │   ├── create_dmg.sh             ← NOU
+    │   └── Info.plist                ← NOU
+    └── linux/
+        └── create_deb.sh             ← NOU
